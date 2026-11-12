@@ -1,0 +1,7 @@
+# Temperature Validation and Monitoring System
+# The project's standalone Python script is located at:
+# ./temperature_validator.py
+#
+# Requirements:
+# Python 3.x (Uses standard library: random, time)
+# No external pip packages required.

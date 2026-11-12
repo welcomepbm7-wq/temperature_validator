@@ -1,0 +1,8 @@
+{
+  "name": "Temperature Validation and Monitoring System",
+  "description": "IoT Sensor Data Validator: Real-time academic temperature simulation, Kelvin conversion, physical validity checks, and secure per-student monitoring history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
